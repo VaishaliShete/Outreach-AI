@@ -20,5 +20,5 @@ Outreach AI for services company using groq, langchain and streamlit. It allows 
    
 3. Run the streamlit app:
    ```commandline
-   streamlit run app/main.py
+   streamlit run main.py
    ```
