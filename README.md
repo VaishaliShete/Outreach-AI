@@ -6,8 +6,6 @@ Outreach AI for services company using groq, langchain and streamlit. It allows 
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - Antilla is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Antilla is going to reach out to Nike via a cold email.
 
-![img.png](/img.png)
-
 ## Architecture Diagram
 ![img.png](/architecture.png)
 
